@@ -1,0 +1,12 @@
+{
+    "threads":2,    //挖矿线程数      
+    "pools": [
+        {
+            "url": "stratum+tcp://test-pool.ulord.one:7200",      //矿池地址和端口
+            "user": "ueC7gxTP34dE1WGTm51TG9WF3rLifcyND6.test",    //钱包地址和矿机编号    
+            "pass": "x"                                           //矿池密码
+                                                                  
+        }
+    ]
+               
+}
