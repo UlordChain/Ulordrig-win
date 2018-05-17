@@ -1,3 +1,3 @@
-启动挖矿方式：
-直接双击start.bat批处理文件开始挖矿。
-注意：将config.json配置文件中的钱包地址改成自己钱包的地址，线程数可以改成自己想要调用的挖矿线程数。
+Start the mining:
+double-click the start.bat file to start mining.
+Note: Change the wallet address in the config.json configuration file to your wallet address. The thread count can be changed to the mining thread count that you want to call.
