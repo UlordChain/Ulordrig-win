@@ -1,10 +1,10 @@
 {
-    "threads":2,    //ÍÚ¿óÏß³ÌÊı      
+    "threads":2,    //æŒ–çŸ¿çº¿ç¨‹æ•°      
     "pools": [
         {
-            "url": "stratum+tcp://test-pool.ulord.one:7200",      //¿ó³ØµØÖ·ºÍ¶Ë¿Ú
-            "user": "ueC7gxTP34dE1WGTm51TG9WF3rLifcyND6.test",    //Ç®°üµØÖ·ºÍ¿ó»ú±àºÅ    
-            "pass": "x"                                           //¿ó³ØÃÜÂë
+            "url": "stratum+tcp://u1pool.com:18888",      //çŸ¿æ± åœ°å€å’Œç«¯å£
+            "user": "UX4Y21xaZT4q5QhNvkge5ueg5hGCWxjvKb.test",    //é’±åŒ…åœ°å€å’ŒçŸ¿æœºç¼–å·    
+            "pass": "x"                                           //çŸ¿æ± å¯†ç 
                                                                   
         }
     ]
